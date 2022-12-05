@@ -1,3 +1,11 @@
+;0-in your tablet selecr "e" for eraser shortcut
+;
+;1-in sai add e shortcut for Eraser (small case)
+;2-in sai add e shortcut for Pencell (small case)
+;
+;3-run this .ahk file(AHK 1.1 ver working with it)
+;gl
+
 Toggle:=1
 $e::
 If Toggle=1
