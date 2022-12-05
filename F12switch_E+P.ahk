@@ -1,5 +1,5 @@
 ;better to use your kebored for other stuff
-;0-in your tablet selecr "e" for eraser shortcut
+;0-in your tablet selecr "f12" for eraser shortcut
 ;
 ;1-in sai add e shortcut for Eraser (small case)
 ;2-in sai add e shortcut for Pencell (small case)
